@@ -1,0 +1,9 @@
+# Apparence de l'interface (lue automatiquement par "streamlit run" lance depuis ce dossier)
+
+[theme]
+baseFontSize = 22
+headingFontSizes = ["2.6rem", "1.8rem", "1.4rem"]
+primaryColor = "#2457A6"
+
+[client]
+toolbarMode = "minimal"
